@@ -21,9 +21,7 @@ Hi, I'm Sabbir Ahmed Shonon, a Frontend Developer with a passion for creating in
 
 ## Connect with Me
 - [LinkedIn Profile](https://bd.linkedin.com/in/sabbirahmedshonon)
-## Connect with Me
-[Sabbir Ahmed Shonon - LinkedIn Profile](https://bd.linkedin.com/in/sabbirahmedshonon?trk=profile-badge)
 
-- [GitHub Profile](https://github.com/sabbirshonon)
+- [GitHub Profile](https://github.com/ahmedshonon)
 
 Feel free to check out my projects and connect with me!
